@@ -1,10 +1,10 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyBvOu8NlLiEb9EgVUtf4Q6klm7hYmAihpA",
-  authDomain: "team-feed-97f6e.firebaseapp.com",
-  databaseURL: "https://team-feed-97f6e.firebaseio.com",
-  storageBucket: "",
-  messagingSenderId: "923654108494"
+	apiKey: "AIzaSyD_PanZhY8YEgR6YmiVzol4MgrMOjs-ES8",
+    authDomain: "team-feed-2818c.firebaseapp.com",
+    databaseURL: "https://team-feed-2818c.firebaseio.com",
+    storageBucket: "team-feed-2818c.appspot.com",
+    messagingSenderId: "245993843790"
 };
 firebase.initializeApp(config);
 
